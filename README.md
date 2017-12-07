@@ -2,7 +2,9 @@
 
 ## Solutions for adventofcode.com challenges
 
-* [01](01/challenge.js)
-* [02](02/challenge.js)
-* 03
-* [04](04/challenge.js)
+* [Day 1](01/challenge.js)
+* [Day 2](02/challenge.js)
+* Day 3
+* [Day 4](04/challenge.js)
+* [Day 5](05/challenge.js)
+* [Day 6](06/challenge.js)
