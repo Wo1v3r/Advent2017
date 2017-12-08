@@ -8,3 +8,5 @@
 * [Day 4](04/challenge.js)
 * [Day 5](05/challenge.js)
 * [Day 6](06/challenge.js)
+* [Day 7](07/challenge.js)
+
